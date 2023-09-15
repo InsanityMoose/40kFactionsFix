@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40kFactionFix", "40kFactionFix.csproj", "{FC533F37-FCFA-4DFD-B8D9-8995933C83E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC533F37-FCFA-4DFD-B8D9-8995933C83E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC533F37-FCFA-4DFD-B8D9-8995933C83E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC533F37-FCFA-4DFD-B8D9-8995933C83E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC533F37-FCFA-4DFD-B8D9-8995933C83E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C1D7DAA-2FE3-434D-A6D1-7296871CE7D1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Warhammer 40k - Factions Fix</name>
+	<author>InsanityMoose</author>
+	<packageId>InsanityMoose.40kFactionsFix</packageId>
+	<url>https://github.com/insanitymoose/</url>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<description>Patch</description>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2009463077</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+	</loadAfter>
+</ModMetaData>
